@@ -55,6 +55,7 @@ enableMissingTranslationPlaceholders = false
 
     # path name excluded from documentation menu
     menu_exclusion = [
+        "_author",
         "_adult",
         "_programmer",
     ]
@@ -81,18 +82,6 @@ enableMissingTranslationPlaceholders = false
         url = "/mag"
         weight = 2
         identifier = '雜誌'
-
-    [[menu.main]]
-        name = "書籍"
-        url = "/book"
-        weight = 3
-        identifier = 'book'
-
-    [[menu.main]]
-        name = "課程"
-        url = "/course"
-        weight = 4
-        identifier = 'course'
 
     [[menu.main]]
         name = "關於作者"

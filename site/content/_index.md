@@ -9,27 +9,10 @@ images:
 - images/pexels-photo-196666.jpeg
 ---
 
-* [陳鍾誠](ccc/)
-* [一人雜誌社](mag/)
-* [程式人雜誌](programmer)
-* [成人式雜誌](adult/)
+分類 | 內容
+-----|------------------------------
+[作者](_author) |  [陳鍾誠](_author/)
+[雜誌](mag/) | [程式人雜誌](_programmer) / [成人式雜誌](_adult)
+[課程](course/) | [網頁設計](_wp) / [網站設計](_ws) / [計算機結構](_co) / [系統程式](_sp) / [演算法](_alg) / [人工智慧](_ai)
+[書籍](book/) | [電腦:從硬體到軟體](_riscv2os) / [用Python學習資訊科學](_py2cs)
 
-# Hugo Techdoc Theme
-
-## The Techdoc is a Hugo Theme for technical documentation.
-
-## Features
-
-* Modern, Simple layout
-* Responsive web design
-* Documentation menu (Select [Menu style](getting-started/screenshot/#menu-style))
-* [Table Of Contents](sample/table-of-contents/) for the page (selective)
-* [Theme color](getting-started/screenshot/#theme-color)
-* [Edit link](getting-started/screenshot/#edit-link) to documentation repository
-* [Custom Shortcodes](sample/custom-shortcodes/)
-  * Code highlight with clipboard
-  * Alert panel
-  * Button
-* [Search Shortcode](sample/search-shortcode/) powered by [Algolia](https://www.algolia.com/)
-* Open Graph
-* Analytics with Google Analytics, Google Tag Manager
